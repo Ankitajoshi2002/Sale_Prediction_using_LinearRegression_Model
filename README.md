@@ -78,6 +78,7 @@ The model then learns the relationship between these features and sales, predict
 ---
 ## Visualizations 📉
 The model includes a visualization of actual vs predicted sales to help assess its performance. Below is an example of how the chart looks:
+
 -**Blue line:** Actual sales
 
 - **Red line:** Predicted sales
